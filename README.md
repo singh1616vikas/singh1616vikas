@@ -54,8 +54,8 @@
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| 🍷 **Dolce Vitale** | Responsive brand website with pixel-perfect UI | HTML · CSS · Bootstrap | [View →](#) |
-| 🏢 **SMAS India** | Corporate website with modern layout | HTML · CSS · Bootstrap | [View →](#) |
+| 🍷 **Dolce Vitale** | Responsive brand website with pixel-perfect UI | HTML · CSS · Bootstrap | [View →](https://dolcevitale.com/) |
+| 🏢 **SMAS India** | Corporate website with modern layout | HTML · CSS · Bootstrap | [View →](https://www.smasindia.com/) |
 | 👗 **Fidore** | Brand & services website | HTML · CSS · Bootstrap | [View →](#) |
 
 > 📌 More projects on [Behance](https://www.behance.net/vikassingh2095)
