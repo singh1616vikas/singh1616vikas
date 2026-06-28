@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="file:///D:/Graphics_Work/Mylogo/logo-new%20svg.svg" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0070C0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikas+Singh%3BGraphics+%26+Web+Designer%3BUI%2FUX+%7C+Front-End+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -65,9 +65,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassingh2095&show_icons=true&theme=default&hide_border=true&title_color=0070C0&icon_color=0070C0" height="160" />
-   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassingh2095&layout=compact&hide_border=true&title_color=0070C0" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=vikassingh2095&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vikassingh2095&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
