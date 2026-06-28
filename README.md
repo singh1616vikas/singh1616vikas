@@ -65,7 +65,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikassingh2095&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singh1616vikas&theme=github-compact&hide_border=true&color=0070C0&line=0070C0&point=0070C0" alt="GitHub Activity Graph" />
 </p>
 
 ---
